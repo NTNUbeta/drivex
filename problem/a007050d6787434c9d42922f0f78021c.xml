@@ -1,0 +1,9 @@
+<problem display_name="Text Input with Hints and Feedback" markdown="&gt;&gt;Hva står GDPR for? &lt;&lt;&#10;= General Data Protection Regulation &#10;&#10;||GDPR er en forordning som skal styrke og harmonisere personvernet ved behandling av personopplysninger i Den europeiske union (EU). Opprettelsen av like regler for de næringsdrivende i EU, er også ment å tjene den økonomiske utviklingen i dette området. Forordningen omhandler også i noen grad behandling som skjer utenfor EU eller overføring av personopplysninger ut av EU. Dette er en generell definisjon hentet fra Wikipedia||&#10;&#10;">
+  <stringresponse answer="General Data Protection Regulation " type="ci">
+    <label>Hva står GDPR for? </label>
+    <textline size="20"/>
+  </stringresponse>
+  <demandhint>
+    <hint>GDPR er en forordning som skal styrke og harmonisere personvernet ved behandling av personopplysninger i Den europeiske union (EU). Opprettelsen av like regler for de næringsdrivende i EU, er også ment å tjene den økonomiske utviklingen i dette området. Forordningen omhandler også i noen grad behandling som skjer utenfor EU eller overføring av personopplysninger ut av EU. Dette er en generell definisjon hentet fra Wikipedia</hint>
+  </demandhint>
+</problem>

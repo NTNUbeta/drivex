@@ -1,0 +1,21 @@
+{
+    "GRADER": [
+        {
+            "drop_count": 0, 
+            "min_count": 1, 
+            "short_label": "Egenrefleksjon", 
+            "type": "Egenrefleksjon", 
+            "weight": 0.5
+        }, 
+        {
+            "drop_count": 0, 
+            "min_count": 1, 
+            "short_label": "Nettkurset", 
+            "type": "Mitt nettkurs - lenke", 
+            "weight": 0.5
+        }
+    ], 
+    "GRADE_CUTOFFS": {
+        "Pass": 0.5
+    }
+}

@@ -1,0 +1,6 @@
+<vertical display_name="Kursbevis">
+  <html url_name="c41c4c42fc0e416894dbf3337960c88c"/>
+  <edx_sga url_name="dd2cca7ed6ab4298bf1332865e6bfa85" xblock-family="xblock.v1" weight="1.0" showanswer="never" display_name="Mitt nettkurs - lenke" points="1"/>
+  <html url_name="6ef1d1b9cbec4c348961e10a9f529505"/>
+  <discussion url_name="c93761a3fc8d4cd4b986eec771926c27" xblock-family="xblock.v1" discussion_target="Jeg deler mitt nettkurs" display_name="Jeg deler mitt kurs" discussion_category="Kursbevis"/>
+</vertical>

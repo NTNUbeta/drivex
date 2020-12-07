@@ -1,0 +1,155 @@
+{
+    "course/2020_feb": {
+        "advanced_modules": [
+            "dlr", 
+            "survery", 
+            "poll", 
+            "edx_sga", 
+            "word_cloud", 
+            "freetextresponse"
+        ], 
+        "allow_anonymous": false, 
+        "cert_html_view_enabled": true, 
+        "cert_name_long": "Certificate of Achievement", 
+        "cert_name_short": "Certificate", 
+        "certificates_display_behavior": "early_with_info", 
+        "course_image": "DriveX_Large.jpg", 
+        "discussion_topics": {
+            "General": {
+                "id": "course"
+            }
+        }, 
+        "display_name": "DriveX - et nettkurs i \u00e5 lage nettkurs", 
+        "end": "2020-06-20T00:00:00Z", 
+        "enrollment_end": "2020-06-10T00:00:00Z", 
+        "enrollment_start": "2020-02-02T00:00:00Z", 
+        "graceperiod": "", 
+        "instructor_info": {
+            "instructors": []
+        }, 
+        "language": "nb", 
+        "learning_info": [], 
+        "minimum_grade_credit": 0.8, 
+        "pdf_textbooks": [
+            {
+                "chapters": [
+                    {
+                        "title": "Presentasjonsmal (Power Point template)", 
+                        "url": "/static/NTNU_MOOCs_Template.pdf"
+                    }, 
+                    {
+                        "title": "Langseth, I. og Haugsbakken, H. (2016) Introducing Blended Learning MOOC", 
+                        "url": "/static/Langseth-Haugsbakken2016_Chapter_IntroducingBlendedLearningMOOC.pdf"
+                    }, 
+                    {
+                        "title": "Haugsbakken, H. og Langseth, I (2017) Organizational Areas for Improvement When Realizing MOOCs At Universities", 
+                        "url": "/static/Organizational_Areas_for_Improvement_When_Realizing_MOOCs_At_Universities.pdf"
+                    }, 
+                    {
+                        "title": "Jacobsen, D.Y.; Langseth, I og Haugsbakken (2018) Digital professional development: towards a collaborative learning approach for taking higher education into the digitalized age", 
+                        "url": "/static/Digital_professional_development_towards_a_collaborative_l.pdf"
+                    }, 
+                    {
+                        "title": "Arne Krokan (2019) Kap 21 i Det Nye Digitale. Norges tekniskvitenskapsakademi", 
+                        "url": "/static/kap21-komprimert.pdf"
+                    }, 
+                    {
+                        "title": "A Guide to Quality in Online Learning. Academic Partnerships", 
+                        "url": "/static/A_Guide_to_Quality_in_Online_Learning.pdf"
+                    }, 
+                    {
+                        "title": "Videotekniske begrep", 
+                        "url": "/static/begrep_video.pdf"
+                    }, 
+                    {
+                        "title": "Escaping the Talking head", 
+                        "url": "/static/Escaping_the_talking_head._Artikkel.pdf"
+                    }, 
+                    {
+                        "title": "Investigating Learners\u2019 Viewing Behaviour in Watching a Designed Instructional Video", 
+                        "url": "/static/investigating_learners_viewing_behaviour_in_watching_a_des.pdf"
+                    }
+                ], 
+                "id": "3Litteratur", 
+                "tab_title": "Litteratur"
+            }
+        ], 
+        "self_paced": true, 
+        "start": "2020-03-02T00:00:00Z", 
+        "tabs": [
+            {
+                "course_staff_only": false, 
+                "name": "Home", 
+                "type": "course_info"
+            }, 
+            {
+                "course_staff_only": false, 
+                "name": "Course", 
+                "type": "courseware"
+            }, 
+            {
+                "course_staff_only": false, 
+                "name": "Discussion", 
+                "type": "discussion"
+            }, 
+            {
+                "course_staff_only": false, 
+                "is_hidden": true, 
+                "name": "Progress", 
+                "type": "progress"
+            }, 
+            {
+                "course_staff_only": false, 
+                "name": "Textbooks", 
+                "type": "pdf_textbooks"
+            }, 
+            {
+                "course_staff_only": false, 
+                "name": "Sosiale medier", 
+                "type": "static_tab", 
+                "url_slug": "e009656f67734631a691999b7c7fca84"
+            }, 
+            {
+                "course_staff_only": false, 
+                "name": "Versjonsmerknader", 
+                "type": "static_tab", 
+                "url_slug": "7124c0995d974fdcb3a61211e946843a"
+            }, 
+            {
+                "course_staff_only": false, 
+                "name": "Textbooks", 
+                "type": "textbooks"
+            }, 
+            {
+                "course_staff_only": false, 
+                "is_hidden": true, 
+                "name": "Wiki", 
+                "type": "wiki"
+            }
+        ], 
+        "user_partitions": [
+            {
+                "active": true, 
+                "description": "The groups in this configuration can be mapped to cohorts in the Instructor Dashboard.", 
+                "groups": [
+                    {
+                        "id": 188714885, 
+                        "name": "Workshopdeltakere", 
+                        "version": 1
+                    }
+                ], 
+                "id": 1377624718, 
+                "name": "Content Groups", 
+                "parameters": {}, 
+                "scheme": "cohort", 
+                "version": 3
+            }
+        ], 
+        "xml_attributes": {
+            "filename": [
+                "course/course.xml", 
+                "course/course.xml"
+            ]
+        }
+    }
+}

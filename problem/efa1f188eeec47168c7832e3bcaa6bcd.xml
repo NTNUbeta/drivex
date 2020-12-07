@@ -1,0 +1,6 @@
+<problem display_name="Numerical Input" markdown="&gt;&gt;Hvor gammel var Anne Borg da hun ble rektor ved NTNU? Svar kun med tall. &lt;&lt;&#10;&#10;= 61&#10;">
+  <numericalresponse answer="61">
+    <label>Hvor gammel var Anne Borg da hun ble rektor ved NTNU? Svar kun med tall. </label>
+    <formulaequationinput/>
+  </numericalresponse>
+</problem>

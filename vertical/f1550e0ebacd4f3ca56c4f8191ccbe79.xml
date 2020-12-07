@@ -1,0 +1,39 @@
+<vertical display_name="Eksempeloppgaver i Open edX (avansert)">
+  <html url_name="4dfd9f5a227b4513876dc111e1973b6f"/>
+  <drag-and-drop-v2 url_name="805cc2e0e1874ead98bef019722023fe" xblock-family="xblock.v1"/>
+  <openassessment url_name="851056b9bb0c4607ad7e1c950bc6ad33" submission_start="2001-01-01T00:00:00" submission_due="2029-01-01T00:00:00" text_response="required" allow_latex="False" prompts_type="text">
+    <title>Eksempel Peer Assessment</title>
+    <assessments>
+      <assessment name="peer-assessment" must_grade="1" must_be_graded_by="1" start="2001-01-01T00:00:00" due="2029-01-01T00:00:00"/>
+    </assessments>
+    <prompts>
+      <prompt>
+        <description>Dersom du skulle ha gjort noe hyggelig for dine kolleger, hva skulle det kunne være?</description>
+      </prompt>
+    </prompts>
+    <rubric>
+      <criterion>
+        <name>Ideas</name>
+        <label>Realiserbarhet</label>
+        <prompt>Er denne ideen realiserbar?</prompt>
+        <option points="1">
+          <name>Poor</name>
+          <label>Lite gjennomtenkt</label>
+          <explanation>Det vil være vanskelig å gjennomføre dette tiltaket.</explanation>
+        </option>
+        <option points="3">
+          <name>Fair</name>
+          <label>Gjennomtenkt</label>
+          <explanation>Dette kan være en god idé.</explanation>
+        </option>
+        <option points="5">
+          <name>Good</name>
+          <label>Meget godt gjennomtenkt</label>
+          <explanation>Dette er en fantastisk idé! Kan jeg delta?</explanation>
+        </option>
+      </criterion>
+      <feedbackprompt>Hva syns du om denne idéen?</feedbackprompt>
+      <feedback_default_text>Jeg synes at dette...</feedback_default_text>
+    </rubric>
+  </openassessment>
+</vertical>

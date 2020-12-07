@@ -1,0 +1,10 @@
+<problem display_name="Multiple Choice" markdown="&gt;&gt;Hvem vant prisen: Årets nettpedagog i 2019?. Her er det bare ett korrekt svar. &lt;&lt;&#10;&#10;( ) Arne Krokan&#10;(x) Halvdan Haugsbakken&#10;( ) Magnus Nohr &#10;">
+  <multiplechoiceresponse>
+    <label>Hvem vant prisen: Årets nettpedagog i 2019?. Her er det bare ett korrekt svar. </label>
+    <choicegroup type="MultipleChoice">
+      <choice correct="false">Arne Krokan</choice>
+      <choice correct="true">Halvdan Haugsbakken</choice>
+      <choice correct="false">Magnus Nohr</choice>
+    </choicegroup>
+  </multiplechoiceresponse>
+</problem>

@@ -1,0 +1,10 @@
+<problem display_name="Dropdown" markdown="&gt;&gt;Hva sier du når du møter en fransktalende student for første gang? &lt;&lt;&#10;[[&#10;S'il vous plaît&#10;(Je vous soihaite le bienvenu)&#10;Parlez-vous anglais?&#10;]]&#10;">
+  <optionresponse>
+    <label>Hva sier du når du møter en fransktalende student for første gang? </label>
+    <optioninput>
+      <option correct="False">S'il vous plaît</option>
+      <option correct="True">Je vous soihaite le bienvenu</option>
+      <option correct="False">Parlez-vous anglais?</option>
+    </optioninput>
+  </optionresponse>
+</problem>

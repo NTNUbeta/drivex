@@ -1,0 +1,29 @@
+<problem display_name="Checkboxes" markdown="Avkrysningsbokser kan brukes på flere måter&#10;====&#10;Kartlegg dine ideelle reisevaner ved å svare på de to spørsmålene. &#10;&#10;&gt;&gt;Hvordan bør du vanligvis reise til jobben? Du må krysse av for tre gode valg&lt;&lt;&#10;&#10;[x] til fots, uten å betale et øre&#10;[ ] med bil og NTNU parkeringsapp Apcoa Flow (billig)&#10;[x] med sykkel, uten å betale et øre&#10;[ ] med bil og parkeringsapp Smart Park/automat (dyrt)&#10;[x] med buss, ved å betale omtrent NOK 40&#10;[ ] med motorsykkel og fri parkering&#10;&#10;&#10;&gt;&gt;Lever du godt med ditt valg? Du får ett valg&lt;&lt;&#10;(x) Ja, helt utmerket&#10;(x) Tja, stort sett&#10;(x) Nei, burde nok ha vurdert andre alterntiv&#10;&#10;[explanation]&#10;Det er ditt valg :)&#10;[explanation]&#10;" showanswer="attempted">
+  <h3 class="hd hd-2 problem-header">Avkrysningsbokser kan brukes på flere måter</h3>
+  <p>Kartlegg dine ideelle reisevaner ved å svare på de to spørsmålene. </p>
+  <label>Hvordan bør du vanligvis reise til jobben? Du må krysse av for tre gode valg</label>
+  <choiceresponse>
+    <checkboxgroup>
+      <choice correct="true">til fots, uten å betale et øre</choice>
+      <choice correct="false">med bil og NTNU parkeringsapp Apcoa Flow (billig)</choice>
+      <choice correct="true">med sykkel, uten å betale et øre</choice>
+      <choice correct="false">med bil og parkeringsapp Smart Park/automat (dyrt)</choice>
+      <choice correct="true">med buss, ved å betale omtrent NOK 40</choice>
+      <choice correct="false">med motorsykkel og fri parkering</choice>
+    </checkboxgroup>
+  </choiceresponse>
+  <label>Lever du godt med ditt valg? Du får ett valg</label>
+  <multiplechoiceresponse>
+    <choicegroup type="MultipleChoice">
+      <choice correct="true">Ja, helt utmerket</choice>
+      <choice correct="true">Tja, stort sett</choice>
+      <choice correct="true">Nei, burde nok ha vurdert andre alterntiv</choice>
+    </choicegroup>
+  </multiplechoiceresponse>
+  <solution>
+    <div class="detailed-solution">
+      <p>Explanation</p>
+      <p>Det er ditt valg :)</p>
+    </div>
+  </solution>
+</problem>
